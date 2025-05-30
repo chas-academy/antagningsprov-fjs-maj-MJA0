@@ -11,7 +11,7 @@ function uppg7() {
         return x + y;
     }
 
-    return add(5, 10);
+    return addera(5, 10);
 }
 
 module.exports = { uppg7 };

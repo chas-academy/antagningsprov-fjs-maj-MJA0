@@ -7,9 +7,9 @@ function uppg6(){
 
     let names = ["Alex", "Bertil", "Cecilia", "Danne"];
 
-    for (let name of names)
+    for (let n of names)
     {
-        System.out.println(names);
+        console.log(n);
     }
 }
 

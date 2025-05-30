@@ -13,7 +13,7 @@ function uppg5() {
     }
     else
     {
-        console.log("Det andra talet är större än det andra");
+        console.log("Det andra talet är större än det första");
     }
 
 }

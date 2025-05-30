@@ -12,7 +12,7 @@ function uppg9 (){
     {
         for(let nr of numbers)
         {
-            if(number % 2 === 0)
+            if(nr % 2 === 0)
             {
                 console.log(nr + " jämnt");
             }
