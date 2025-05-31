@@ -14,11 +14,15 @@ function uppg9 (){
         {
             if(nr % 2 === 0)
             {
-                console.log(parseInt(nr)+" jämt");
+                console.log(parseInt(nr));
+                let j ="jämt";
+                console.log(j.toString());
             }
             else
             {
-                console.log(parseInt(nr)+" udda");
+                console.log(parseInt(nr));
+                let u ="udda";
+                console.log(u.toString());
             }
         }
     }
