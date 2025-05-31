@@ -14,16 +14,18 @@ function uppg9 (){
         {
             if(nr % 2 === 0)
             {
-                console.log(nr+"jämt");
+                console.log(nr);
+                console.log("jämt");
             }
             else
             {
-                console.log(nr+"udda");
+                console.log(nr);
+                console.log("udda");
             }
         }
     }
 
-    sort([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]);
+    sort([1,2,3,4,5,6,7,8,9,10]);
 }
 
 module.exports = { uppg9 };
