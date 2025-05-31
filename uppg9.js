@@ -12,16 +12,13 @@ function uppg9 (){
     {
         for(let nr of numbers)
         {
-            let svar = [];
             if(nr % 2 === 0)
             {
-                svar.push[nr, "jämt"];
-                console.log(svar);
+                console.log(nr, "jämt");
             }
             else
             {
-                svar.push[nr, "udda"];
-                console.log(svar);
+                console.log(nr, "udda");
             }
         }
     }
