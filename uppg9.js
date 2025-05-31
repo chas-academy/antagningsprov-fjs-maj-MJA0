@@ -15,7 +15,7 @@ function uppg9 (){
             if(nr % 2 === 0)
             {
                 console.log(nr);
-                console.log("jämnt");
+                console.log("jämt");
             }
             else
             {
